@@ -10,3 +10,13 @@
    cout << "1. Physics" << endl;  
    cout << "2. Chemistry" << endl;  
    cout << "3. Mathematics" << endl;
+
+   cout << "1st Semester Subjects:" << endl;  
+   cout << "1. Computer Proramming" << endl;  
+   cout << "2. Calculus" << endl; 
+   cout << "3. Islamiyat" << endl; 
+
+  cout << "2nd Semester Subjects:" << endl;  
+   cout << "1. Object-Oriented Programming" << endl;  
+   cout << "2. Discrete Structure" << endl; 
+   cout << "3. Software Development Life Cycle" << endl;  
