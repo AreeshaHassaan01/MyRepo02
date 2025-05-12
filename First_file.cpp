@@ -1,4 +1,6 @@
- #include <iostream>  
+cout << "Summary: Academic Details" << endl;  
+
+#include <iostream>  
    using namespace std;  
    int main() {  
        cout << "Areesha Hassaan" << endl;  
